@@ -1,0 +1,15 @@
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\bin\Debug\net6.0\TestSetProject.exe
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\bin\Debug\net6.0\TestSetProject.deps.json
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\bin\Debug\net6.0\TestSetProject.runtimeconfig.json
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\bin\Debug\net6.0\TestSetProject.dll
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\bin\Debug\net6.0\TestSetProject.pdb
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.csproj.AssemblyReference.cache
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.AssemblyInfoInputs.cache
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.AssemblyInfo.cs
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.csproj.CoreCompileInputs.cache
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.dll
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\refint\TestSetProject.dll
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.pdb
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\TestSetProject.genruntimeconfig.cache
+C:\Dev\Git\SetTestApi\TestSetSolution\TestSetProject\obj\Debug\net6.0\ref\TestSetProject.dll
